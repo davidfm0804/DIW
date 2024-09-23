@@ -138,3 +138,10 @@ input{
     border-radius: 30px;
     padding: 30px;
 }
+ul{
+    list-style-type: disclosure-closed;/*Hacemos que la lista este ordenada por un simbolo de play*/
+}
+a{
+    text-decoration: none;
+    color: black;
+}
